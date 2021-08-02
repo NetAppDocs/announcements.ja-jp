@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: request-doc-changes.html 
+keywords: announcements, github issues, request doc changes, request changes 
+summary: 'ドキュメントの変更をリクエストしたい場合に、ソースコンテンツを直接編集しないでください。 [ ドキュメントの変更をリクエスト ] をクリックしてフィードバックを提供できるようになりました。' 
+last_modified: 19-Feb-2019 
+---
+= ドキュメントの変更を申請してください
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+ドキュメントの変更をリクエストする際に、ソースコンテンツを直接編集しない場合は、 [*Request doc changes] をクリックしてフィードバックを提供できるようになりました。
+
+この新しいボタンは、各ページの上部に表示されます。
+
+image:request-doc-changes.png[""]
+
+[*Request doc changes] をクリックすると、 GitHub アカウントの作成またはサインインを求めるプロンプトが表示されます（無料で、アカウントを簡単に作成できます）。
+
+ログインすると、新しい GitHub 問題を作成するためのフォームが表示されます。テキストボックスには、ページのタイトルと URL があらかじめ入力されています。この情報は削除しないでください。問題を見つけたページを特定するのに役立ちます。
+
+image:github-issue.png[""]
+
+テキストボックスに詳細を入力し、 [ 新規問題の送信 ] をクリックして、リクエストの問題を作成します。
+
+フィードバックを確認して、そこからお寄せください。

@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: ontap-select.html 
+keywords: announcements, documentation, ontap select 
+summary: ONTAP Select のコンテンツを GitHub オーサリングプラットフォームに追加しました。 
+last_modified: 22-Jan-2020 
+---
+= ONTAP Select のドキュメント
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+最近、 ONTAP Select のコンテンツを追加しました。このコンテンツは、 VMware ESXi で実行されている ONTAP Select に役立ちます。また、 ONTAP Select Deploy REST API を使用するためのハイパーバイザーに依存しないドキュメントを提供します。
+
+この変更は、コンテンツオーサリングチームが複数のソースからのコンテンツを 1 つの検索可能なオンラインライブラリに統合したことで大変喜ばしいことです。
+
+ONTAP Select に関する新しいドキュメントを参照して、投稿してください。編集、変更のリクエスト、フィードバックの送信も可能です。にアクセスします https://docs.netapp.com/us-en/ontap-select/index.html["ONTAP Select のドキュメント"] をダウンロードしてご確認ください。
+
+image:ontap-select.gif[""]

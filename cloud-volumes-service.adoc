@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: cloud-volumes-service.html 
+keywords: announcements, documentation, cloud volumes ontap, ontap cloud, cloud ontap 
+summary: '新しいネットアップサービスのドキュメントを追加しました。Cloud Volumes Service for AWS のドキュメントがから入手できるようになりました https://docs.netapp.com[]。' 
+last_modified: 31-May-2018 
+---
+= Cloud Volumes Service for AWS のドキュメント
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+新しいネットアップサービスのドキュメントを追加しました。Cloud Volumes Service for AWS のドキュメントがから入手できるようになりました https://docs.netapp.com["docs.netapp.com"^]。
+
+NetApp Cloud Volumes Service for AWS は、 NFS や SMB 経由で NAS ボリュームにオールフラッシュのパフォーマンスを提供するクラウドネイティブのファイルサービスです。このサービスを使用すると、従来型アプリケーションを含むあらゆるワークロードを AWS クラウドで実行できます。
+
+にアクセスします https://docs.netapp.com/us-en/cloud_volumes/aws/["Cloud Volumes Service for AWS のドキュメント"^] をクリックして、開始方法を確認してください。

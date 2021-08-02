@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: hci.html 
+keywords: announcements, documentation, hci, hybrid, cloud 
+summary: NetApp HCI クラウドサービスおよびソリューション用のドキュメントが公開されました。 
+last_modified: 20-Dec-2019 
+---
+= NetApp HCI のドキュメント
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp HCI でクラウドサービスを有効にし、 NetApp HCI ソリューションカタログにアクセスするためのドキュメントを追加しました。
+
+に進みます https://docs.netapp.com/us-en/hci/index.html["NetApp HCI クラウドサービスとソリューション"] NetApp HCI でクラウドサービスを使用する方法、および NetApp HCI でのソリューションの使用方法については、を参照してください。
+
+クラウドサービスの情報では、 NetApp HCI ハイブリッドクラウド制御を使用してクラウドサービスを有効にする方法、クラスタを作成してアプリケーションを迅速に導入する方法、および NetApp Fabric Orchestrator を使用して NetApp HCI で Cloud Volume を作成する方法について説明します。Fabric Orchestrator は、ストレージとデータの管理を行う一元化されたコントロールプレーンです。ストレージ資産とデータ資産をあらゆる場所で検出して管理できます。
+
+image:hci_cloudservices.gif["NetApp HCI クラウドサービスのドキュメント"]
+
+また、プライベートクラウドの導入と運用に必要な情報をお客様に提供する NetApp HCI ソリューションカタログを追加し、オンプレミスとオフプレミスの両方にわたるさまざまなユースケースをサポートします。NetApp HCI ソリューションは、 DevOps 、エンドユーザコンピューティング、エンタープライズアプリケーション、人工知能、データ保護、データファブリック管理などのテクノロジ分野で、パブリッククラウド、プライベートクラウド、ハイブリッドクラウド、マルチクラウドにわたって付加価値を提供します。
+
+image:hci_solutions_catalog.gif["NetApp HCI ソリューションカタログ"]

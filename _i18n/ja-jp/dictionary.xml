@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="e24c5b58e2d9896cb97f9c2b3319aba5" category="summary">ネットアップの寄稿者向けガイドの GitHub でホストされているネットアップドキュメントのスタイルと構文を解説するように更新されました。</block>
+  <block id="88dee452ae0859a30045db56c941e7a0" category="doc">スタイルガイドおよび構文リファレンス</block>
+  <block id="e5ae3e8cef11a090cc3acaa905030eca" category="inline-link">寄稿者向けガイド</block>
+  <block id="926b60e1a6c51073fbbc63f83d98d4fc" category="paragraph">を更新しました<block ref="db2dc000b9399960efa3586df4e9cb8c" category="inline-link-rx"></block> GitHub に格納されているネットアップドキュメントの形式と構文をカバーするため。</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-image-macro"></block>
+  <block id="8e1e340c21a62417919b757c373d41dc" category="paragraph"><block ref="8e1e340c21a62417919b757c373d41dc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="62031e5204e801a849a91204c9d6aa95" category="paragraph">いくつかの理由から、コンテンツの一部を GitHub に格納し始めました。重要な理由の 1 つは、コミュニティによる貢献を可能にすることです。ネットアップのドキュメントはパートナー様からのフィードバックにより改善されています。ネットアップのお客様、パートナー様、およびネットアップの従業員からのフィードバックです。</block>
+  <block id="2fda5e49e611c72a25c5331ceac4b342" category="paragraph">フィードバックを提供する 1 つの方法は、 GitHub に保存されているソースコンテンツを編集することです。</block>
+  <block id="2076081b3709235f99d2bf1e586bd408" category="paragraph"><block ref="2076081b3709235f99d2bf1e586bd408" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a7c254e29c6a4c50c012d4dc15595011" category="paragraph">コンテンツの更新を送信できるように、次の情報をに追加しました<block ref="db2dc000b9399960efa3586df4e9cb8c" category="inline-link-rx"></block>：</block>
+  <block id="88c3dc92387f534cb0d262ec1e8f1bb2" category="list-text">ネットアップのドキュメントのスタイルガイド</block>
+  <block id="2ba2bed86469c810fc6b6d899717fec1" category="list-text">この軽量ガイドに従って、ネットアップのドキュメントのスタイル（会話型と共感型）を説明します。</block>
+  <block id="de2149b178d59ac3e76c6bf02f61f3c7" category="list-text">AsciiDoc リファレンス</block>
+  <block id="284ecb4c0849131653777dab0472c4ef" category="list-text">Markdown に似た軽量マークアップ言語である AsciiDoc 構文を学習するには、次の参照先を参照してください。</block>
+  <block id="86af32105323ac0935a0f85e2aeeb711" category="paragraph">これらのリソースはネットアップのマニュアルにご参加いただき、誠に恐縮ですが、今後の参考にさせていただきます。ソースコンテンツを直接編集しない場合でも、 [*Request doc changes] をクリックしてフィードバックを送信できます。フィードバックを確認して、そこからお寄せください。</block>
+  <block id="0962bcdca78ea05e7fbf19a898a97dfe" category="paragraph">ご協力になりました。</block>
+  <block id="c89c5cd70f32a26ff845a27e3bedf342" category="summary">新しいネットアップサービスのドキュメントを追加しました。NetApp SaaS Backup for Office 365 のドキュメントがに公開されました<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="f99682d5106b8f6376000b302724aaf4" category="doc">NetApp SaaS Backup for Office 365 のドキュメント</block>
+  <block id="f8bf3ad3550f95af891e242fcfff7b8a" category="inline-link">docs.netapp.com</block>
+  <block id="692681554fa8fd3449c7299b20170009" category="paragraph">新しいネットアップサービスのドキュメントを追加しました。NetApp SaaS Backup for Office 365 のドキュメントがに公開されました<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="53af803bffa7f24980c4a26f63154396" category="paragraph">NetApp SaaS Backup は、 Microsoft Office 365 データを Amazon S3 ストレージ、 Microsoft Azure Blob ストレージ、 StorageGRID Webscale オブジェクトストレージにバックアップする、 Web ベースのセキュアなソフトウェアサービス（ SaaS ）です。</block>
+  <block id="0237411d804ba48104d618038a005a16" category="inline-link">NetApp SaaS Backup for Office 365 のドキュメント</block>
+  <block id="d063e730c1cd393851bdcddd47c6a32c" category="paragraph">にアクセスします<block ref="89aa0d274c3077d7640c3c6450ece73b" category="inline-link-rx"></block> をクリックして、開始方法を確認してください。</block>
+  <block id="584cd3a08ba716abaa71859ee4023e37" category="summary">docs.netapp.com で GitHub ベースのドキュメントのユーザーエクスペリエンスが強化されました。これらの変更により、ネットアップのオンラインコンテンツ全体で一貫したエクスペリエンスを実現できます。</block>
+  <block id="1a5143bbde5a332ba63e43fb6f6adb93" category="doc">ユーザエクスペリエンスの向上</block>
+  <block id="f067aed48d152712839b17f2e943de83" category="paragraph">GitHub ベースのドキュメントのユーザエクスペリエンスが強化されました<block ref="09765d13a2c7e990410fb33027d9cebd" category="inline-link-rx"></block>。これらの変更により、ネットアップのオンラインコンテンツ全体で一貫したエクスペリエンスを実現できます。</block>
+  <block id="31bd5ffbed535a9ad92dfd564b8ff05c" category="section-title">レイアウトとスタイル</block>
+  <block id="bbcdcf5d47357b33df71fd5d58d48870" category="paragraph">ドキュメントのレイアウトとスタイルは、 netapp.com にあるものとよく似ています。これには、フォントと色、左右のナビゲーションのレイアウト、ヘッダーとフッターが含まれます。</block>
+  <block id="cf9334cd99a89b490ffa44f86462e733" category="paragraph"><block ref="cf9334cd99a89b490ffa44f86462e733" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6e1229499240644bcf841f10a176bcd6" category="section-title">ブレッドクラム</block>
+  <block id="488c1604476862b77fe053c7bf7b6c5c" category="paragraph">ネットアップのドキュメント間を簡単に移動できる階層リンクを追加しました。たとえば、「 * Documentation * 」をクリックすると、 docs.netapp.com に戻ることができます。</block>
+  <block id="b483cae019f93373053707d21a4caea7" category="paragraph"><block ref="b483cae019f93373053707d21a4caea7" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="57298c3120d668e00ef2b29738832952" category="section-title">投稿へのリンク</block>
+  <block id="105cb06c1bb1ca199df198a2ad98f866" category="paragraph">コンテンツへのリンクは、ページレベルのナビゲーションよりも上位に統合されています。これらのリンクは、コンテンツをスクロールすると常に表示されます。そのため、ページのどこかに問題がある場合は、ボタンをクリックして直接変更を送信したり、フィードバックを送信したりすることができます。</block>
+  <block id="ef1344af1891770b6ba7e34326b207bf" category="paragraph"><block ref="ef1344af1891770b6ba7e34326b207bf" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="46d9aeeb3e6be5318a575af8352534c9" category="summary">NetApp Active IQ のドキュメントがに公開されました<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="b8aad932978a2978b376b7a6897e0390" category="doc">NetApp Active IQ のドキュメント</block>
+  <block id="331658451af5c246947672f876cc30ae" category="paragraph">NetApp Active IQ のドキュメントがに公開されました<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="d81ef71405d0d4b4daee2a3423013bbb" category="paragraph">NetApp Active IQ インテリジェントエンジンは、ネットアップのハイブリッドクラウド全体にわたって運用を最適化するための予測分析とプロアクティブなサポートを提供するクラウドベースのサービスです。</block>
+  <block id="838806ac97500ec8420a6b2811220c16" category="inline-link">Active IQ のドキュメント</block>
+  <block id="26340c92a14b94f57f49d510e904a60d" category="paragraph">にアクセスします<block ref="df7b0f437c501ac5338884e339501425" category="inline-link-rx"></block> をクリックして、開始方法を確認してください。</block>
+  <block id="591b9879d46f270469204bb1b54cb905" category="paragraph"><block ref="591b9879d46f270469204bb1b54cb905" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="803bd26955836f9634f10ba8af48614f" category="summary">お客様からのフィードバックに耳を傾け、 HTML ドキュメントから PDF をダウンロードする機能を追加しました。これにより、外出先で簡単にコンテンツを取得できます。</block>
+  <block id="bbb76505e315b9dd1f97ba9cb0022054" category="doc">PDF をダウンロードします</block>
+  <block id="7df391c285d7e6c78e86d5a5d8e85dfc" category="paragraph">PDF は、いくつかの方法でダウンロードできます。</block>
+  <block id="5e96e0c965637e8d0d23689cd0a46cd8" category="paragraph">最初の方法は、現在表示しているページの PDF をダウンロードすることです。</block>
+  <block id="821a5ebb1d51d03da65c0dea068a08f3" category="inline-image-macro">ページの上部に表示される、 [ このトピックの PDF をダウンロード ] オプションのスクリーンショット。</block>
+  <block id="4c5481577310f0287a454a3cc7910d93" category="paragraph"><block ref="4c5481577310f0287a454a3cc7910d93" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="acfa8c54da0a1579d3178a4319523caf" category="paragraph">左側の目次の上には、さらに多くのオプションがあります。[ * PDF のダウンロード ] をクリックすると、ドキュメントサイト全体、セクション全体（セクションに複数ページがある場合）、または表示しているページのみの PDF を生成するオプションが表示されます。</block>
+  <block id="0d31ed50fefdac3efe21b5296f6c66fd" category="inline-image-macro">目次の上に表示される「 PDF をダウンロード」オプションのスクリーンショット。</block>
+  <block id="404b24c932f447075943208512d66e57" category="paragraph"><block ref="404b24c932f447075943208512d66e57" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9a70913baf52c93bdadc18f8174f4bde" category="paragraph">現在もこの機能に取り組んでいますので、今すぐ PDF をベータ版としてダウンロードすることを検討してください。HTML ページを指す PDF 内のリンクなど、いくつかの既知の問題があります。</block>
+  <block id="0f026a26434684b72316596393024ebd" category="paragraph">PDF タイトルページの下部に日付メッセージが表示されていますか？ネットアップでは、コンテンツの更新や品質向上に常に取り組んでいるため、 PDF を短期間で作成することを計画しています。たとえば、フライト中の場合や、インターネットを利用できない安全な場所に行く場合などに便利です。同じ PDF 月を後で参照すべきではありません -- 古くなる可能性は非常に高いです必ず最新のコンテンツをダウンロードしてください。</block>
+  <block id="9a21351cef909121f2a9b6debcfed246" category="summary">GitHub のすべてのネットアップテクニカルドキュメントリポジトリについて、デフォルトのブランチをマスターからメインに変更しました。この変更は、当社のテクニカルドキュメントで非包括的な言語を削除するための継続的な取り組みの一環です。</block>
+  <block id="2e4729496d2bbed6bff0232599f76326" category="doc">デフォルトブランチの名前を「 main 」に変更</block>
+  <block id="d3b7c913cd04ebfec0e9ec32cb6fd58c" category="inline-link">GitHub</block>
+  <block id="25efe773c4e9de42eb91ab02141aff94" category="paragraph">ネットアップのすべてのテクニカルドキュメントリポジトリについて、デフォルトのブランチをマスターからメインに変更しました<block ref="71990f224cf870094b63b8dd2aea55d0" category="inline-link-rx"></block>。この変更は、当社のテクニカルドキュメントで非包括的な言語を削除するための継続的な取り組みの一環です。</block>
+  <block id="ecad71bc237a38b4607e5135538231ee" category="paragraph"><block ref="ecad71bc237a38b4607e5135538231ee" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="73d58b632dfae1d33e39c28c1d5ddd1a" category="summary">NetApp HCI クラウドサービスおよびソリューション用のドキュメントが公開されました。</block>
+  <block id="36317b19455648745096575e2574f10b" category="doc">NetApp HCI のドキュメント</block>
+  <block id="9fd220153734575a48bb738a083f5aaf" category="paragraph">NetApp HCI でクラウドサービスを有効にし、 NetApp HCI ソリューションカタログにアクセスするためのドキュメントを追加しました。</block>
+  <block id="cde6f89ae8cc04677a4695632fa9b67f" category="inline-link">NetApp HCI クラウドサービスとソリューション</block>
+  <block id="2bde1a8d8db69aa0dee1f98e01e72346" category="paragraph">に進みます<block ref="61b1a239d4e5189a8d59d81af4ca9e1e" category="inline-link-rx"></block> NetApp HCI でクラウドサービスを使用する方法、および NetApp HCI でのソリューションの使用方法については、を参照してください。</block>
+  <block id="9aec5175c3af133ad3547b84d767e6de" category="paragraph">クラウドサービスの情報では、 NetApp HCI ハイブリッドクラウド制御を使用してクラウドサービスを有効にする方法、クラスタを作成してアプリケーションを迅速に導入する方法、および NetApp Fabric Orchestrator を使用して NetApp HCI で Cloud Volume を作成する方法について説明します。Fabric Orchestrator は、ストレージとデータの管理を行う一元化されたコントロールプレーンです。ストレージ資産とデータ資産をあらゆる場所で検出して管理できます。</block>
+  <block id="a123afb0a5e473d260a319e6afe8f936" category="inline-image-macro">NetApp HCI クラウドサービスのドキュメント</block>
+  <block id="1fdfe244ff4d1182c2de92ba8cba2a4b" category="paragraph"><block ref="1fdfe244ff4d1182c2de92ba8cba2a4b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="38accc9f8c554b6f186652a6a450c0fd" category="paragraph">また、プライベートクラウドの導入と運用に必要な情報をお客様に提供する NetApp HCI ソリューションカタログを追加し、オンプレミスとオフプレミスの両方にわたるさまざまなユースケースをサポートします。NetApp HCI ソリューションは、 DevOps 、エンドユーザコンピューティング、エンタープライズアプリケーション、人工知能、データ保護、データファブリック管理などのテクノロジ分野で、パブリッククラウド、プライベートクラウド、ハイブリッドクラウド、マルチクラウドにわたって付加価値を提供します。</block>
+  <block id="aad773c64100f77a8f265003d71729f6" category="inline-image-macro">NetApp HCI ソリューションカタログ</block>
+  <block id="53bb917009114360f67dfe77bf7b5cc1" category="paragraph"><block ref="53bb917009114360f67dfe77bf7b5cc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="780dddb5c0d19186b6d43b2527f34dc1" category="summary">ドキュメント内の各ページに、ページに貢献したユーザーの GitHub アバターが含まれるようになりました。この変更は、ネットアップドキュメントコミュニティ主導の目標を達成するためのものです。</block>
+  <block id="d34fd20c27f77dcf17ccc607334738c5" category="doc">コンテンツ制作者向け GitHub アバター</block>
+  <block id="ef98abaa338a36d07c1350b364c8bfee" category="paragraph">プル要求を作成することで、ソースコンテンツに変更をコミットしたすべてのユーザーの GitHub アバターが表示されます。作成者は、お客様、ネットアップパートナー、または従業員のいずれかです。次に例を示します。</block>
+  <block id="c69bb86131e52f76221ffee2cae52cb9" category="paragraph"><block ref="c69bb86131e52f76221ffee2cae52cb9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="eae8dde81953aaa19bfa5f8d57a7abec" category="paragraph">専門家でも初心者でも、コンテンツに変更を加えることができます。そのため、投稿内容には不慣れです。</block>
+  <block id="6e7df42f97b0cd6ecba29faec584550f" category="paragraph">アバターは小さいので、ドキュメントパスを見るたびにネットアップライターの顔に圧倒されることはないことに注意してください： [&amp;#128521;]</block>
+  <block id="e29784e3d5c940145771b8ec1f0d2361" category="summary">ネットアップの新しい Cloud Tiering サービスのドキュメントをに用意しました<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="a23936500ee528b456b34733d186d6a2" category="doc">Cloud Tiering のドキュメント</block>
+  <block id="92e80b6c1b180e7fecd04cd78e3a8237" category="paragraph">ネットアップの新しい Cloud Tiering サービスのドキュメントをに用意しました<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="a75a80ee13edb26298fa1c272d69a5b4" category="paragraph">Cloud Tiering は、 NetApp FabricPool テクノロジをベースにしており、 ONTAP クラスタ内の使用頻度の低いデータを特定し、クラウド内の低コストのオブジェクトストレージに自動的かつシームレスに移動します。</block>
+  <block id="18b67cdd6c50872fa0de2de9dfd11343" category="inline-link">Cloud Tiering のドキュメント</block>
+  <block id="163d026b849195b6f6272437e6a79209" category="paragraph">にアクセスします<block ref="807e3f80ca0c2c5e2529f8974c05a3ad" category="inline-link-rx"></block> をクリックして、開始方法を確認してください。</block>
+  <block id="6c3ecb751bd708b13e900094cf942926" category="paragraph"><block ref="6c3ecb751bd708b13e900094cf942926" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="37a8cfd772c8abc4580a796f3269f47c" category="summary">RSS ボタンをドキュメントの「新機能」ページごとに追加したので、お気に入りの RSS フィードリーダーでコンテンツの更新を受け取ることができます。フィードを通じて、ネットアップの製品やサービスで導入された新機能や拡張機能を常に最新の状態に保つことができます。</block>
+  <block id="f9d2bef3f933675408363de6ee6befcc" category="doc">新しいページの RSS フィード</block>
+  <block id="1457e49f8dccec856889afc7198d7b7f" category="inline-link">Cloud Tiering Service の略</block>
+  <block id="3872ba83279a8e314096c5b922d90428" category="paragraph">関心のある製品またはサービスの「新機能」ページにアクセスします。の例を次に示します<block ref="d4507f8d464d714b843db28c6932e942" category="inline-link-rx"></block>：</block>
+  <block id="6748f7beddaefd31416ca3654ffdf13c" category="paragraph"><block ref="6748f7beddaefd31416ca3654ffdf13c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d22d4e22b331006dc0f8853a7bda8e1f" category="paragraph">お使いの RSS フィードリーダーに応じて、ページ URL をコピーするか、 * RSS Subscribe * をクリックしてフィード URL をコピーします。リーダー内の URL を検索して、次の手順を開始します。ページが更新されるたびに、フィードに更新情報が反映されます。</block>
+  <block id="45f90aa9fdda1e160068ad1d4c7e4668" category="summary">ONTAP Select のコンテンツを GitHub オーサリングプラットフォームに追加しました。</block>
+  <block id="bb3dde2aa0cf6fd38af6d0f43b2a1619" category="doc">ONTAP Select のドキュメント</block>
+  <block id="2aaef326b401424ff55fdde68a0ce593" category="paragraph">最近、 ONTAP Select のコンテンツを追加しました。このコンテンツは、 VMware ESXi で実行されている ONTAP Select に役立ちます。また、 ONTAP Select Deploy REST API を使用するためのハイパーバイザーに依存しないドキュメントを提供します。</block>
+  <block id="7f6004388e43ebb6b892401a47be0905" category="paragraph">この変更は、コンテンツオーサリングチームが複数のソースからのコンテンツを 1 つの検索可能なオンラインライブラリに統合したことで大変喜ばしいことです。</block>
+  <block id="7436b418bed093768e360d32105591d2" category="inline-link">ONTAP Select のドキュメント</block>
+  <block id="4e5d48997630055674b3aae770fcd98d" category="paragraph">ONTAP Select に関する新しいドキュメントを参照して、投稿してください。編集、変更のリクエスト、フィードバックの送信も可能です。にアクセスします<block ref="45a93879d4bb7abd51fafccb0f35f591" category="inline-link-rx"></block> をダウンロードしてご確認ください。</block>
+  <block id="49d9378e00193fa4d854bd382df3826d" category="paragraph"><block ref="49d9378e00193fa4d854bd382df3826d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="40aa38e48fe3025b432fc9c6a94ab755" category="summary">ネットアップ初の GitHub ベースのドキュメントサイトである clouddocs.netapp.com—which は、現在 Cloud Manager と Cloud Sync のドキュメントをホストしています。</block>
+  <block id="4731c959d36b32dd74134e1ed0b99b5a" category="doc">GitHub でネットアップドキュメントを導入</block>
+  <block id="07e8aa1a0c3839dc4b101b0ce1bb688e" category="paragraph">ドキュメントは、 AsciiDoc （ Markdown に似た軽量フォーマット）で記述され、 GitHub リポジトリに保存され、 HTML コンテンツとしてに提供されます<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="7efbb7e06719718f77e4c61c1df3ef2c" category="paragraph">この新しいドキュメントでは、主に次のようなメリットがあります。</block>
+  <block id="ba24c1c2eed9743b34852d4d56fafb6f" category="list-text">コンテンツの迅速な更新</block>
+  <block id="d82ec879ebd0f625cde5edcd5f0465e7" category="paragraph">クラウドとオープンソースのリソースを活用して、製品リリースサイクルを短縮しています。</block>
+  <block id="ba9cb4c86128c400ab65fb7eca598e2d" category="list-text">コミュニティへの貢献</block>
+  <block id="c875224f829e6299b37bced748c147d7" category="paragraph">ネットアップでは、インライン編集と拡張機能を推奨する機能を提供して、ネットアップの作成者とお客様の距離を短縮しました。</block>
+  <block id="1ca59b86cbef98a8be3dbcecdbbfeda5" category="list-text">応答性に優れたデザイン</block>
+  <block id="b89f5008d8de8f5c78118ec3b9792b65" category="paragraph">サイトは、ネットアップのドキュメントへのアクセスに使用するすべてのデバイスに対して、応答性に優れたレイアウトを提供します。</block>
+  <block id="714a2e829fbe98dc44280f88e6c37ca0" category="paragraph">当社では、継続的にサイトを改善し、時間の経過とともにコンテンツを追加する予定です。皆様のご意見をお待ちしております。</block>
+  <block id="61979eb9db3f70d394e48b62f4ad0066" category="summary">NetApp HCI 1.8 リリースでは、 docs.netapp.com に NetApp HCI に関する詳細情報を追加しました。</block>
+  <block id="09d3cdfa12532557da8f388da94bb9dc" category="doc">NetApp HCI 用のドキュメント更新</block>
+  <block id="3ac61f5bf03fee02a7ddc42d3ea4781b" category="paragraph">この更新プログラムでは、次の新しいトピックについて説明します。</block>
+  <block id="606a51c60a9c4da8c6957f2168b65638" category="list-text">NetApp HCI 、 NetApp Element ソフトウェア、管理サービス、および NetApp Element Plug-in for vCenter Server の新機能とリリースノートをまとめたリリースノートセクション</block>
+  <block id="d68a4bb73faabdd47991f68fc53d5c87" category="list-text">新しく導入を開始するためのインストールと導入の概要について説明します</block>
+  <block id="3faaf4e0bd5f23a3b3706084a4d854e0" category="list-text">システムの拡張と監視の方法については、こちらを参照してください</block>
+  <block id="3bdbd3cae79b223b93743379b90c491c" category="list-text">クラスタおよびノードの概要、パフォーマンスを管理するために設定可能なサービス品質の説明など、基本的な概念に関するセクションです</block>
+  <block id="cc2b34920ded911cf771871876c49b69" category="list-text">管理サービス、 HealthTools 、 Element ソフトウェア、 Element Plug-in for vCenter Server の更新方法など、 NetApp HCI のエンドツーエンドのアップグレード方法をまとめた場所</block>
+  <block id="a097e3c464424bd17a692aab63c4ca1c" category="inline-link">NetApp HCI のドキュメント</block>
+  <block id="9d50d0dc54845ab1bf1003ff0efd319d" category="paragraph">NetApp HCI のドキュメントを参照してください。編集、変更のリクエスト、フィードバックの送信も可能です。に進みます<block ref="6f1ab4c6ddf47e4328cf379fafe3b17d" category="inline-link-rx"></block> 開始します。</block>
+  <block id="977d060fa712ca5cada2a4970afaa133" category="inline-image-macro">docs.netapp.com の HCI ドキュメントサイトを示すスクリーンショット。</block>
+  <block id="ca35e8cf90586807dac031bf95a384b8" category="paragraph"><block ref="ca35e8cf90586807dac031bf95a384b8" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c2090ebcb81deebf8dfe7bcc3bf5b97e" category="doc">ネットアップドキュメントの発表</block>
+  <block id="7c96569c18e233bc3aa0c678f6c737a3" category="paragraph">2018 年 2 月には、 GitHub ベースのドキュメントをに公開しました<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>では、コミュニティの貢献を可能にしながら、コンテンツをより迅速に取得することを目標にしています。継続的に新しいコンテンツを追加し、コンテンツエクスペリエンスを改善します。最新の変更点については、このページをご覧ください。</block>
+  <block id="76d676de13da507e21b2b97274f3143d" category="paragraph">最新のお知らせは次のとおりです。</block>
+  <block id="d1562fb6b39b6bdf3504b3a6ccfef304" category="list-text"><block ref="e5f966226f45758ecad5359af5797bd3" category="inline-link-macro-rx"></block> （ 2021 年 3 月 5 日）</block>
+  <block id="b629fc52d1588569a2f633d0a7e6adc9" category="inline-link-macro">HCI ドキュメントを更新</block>
+  <block id="cd366322ff81f4650796a83a5cfb317f" category="list-text"><block ref="734da8f95796052311327721f0c6b1ce" category="inline-link-macro-rx"></block> （ 2020 年 5 月 29 日）</block>
+  <block id="a1622d0a07d6f6b9a8e538aada0593dd" category="list-text"><block ref="39b5be9799c0610a32f935e5d1141695" category="inline-link-macro-rx"></block> （ 2020 年 4 月 28 日）</block>
+  <block id="6dfa38e97fe16150c4ca6689c6d3a881" category="list-text"><block ref="fcd05649c33944b070e8a09a7085bc92" category="inline-link-macro-rx"></block> （ 2020 年 3 月 17 日）</block>
+  <block id="ac4fe0f8f82391e062ef9b8420631194" category="inline-link-macro">ONTAP System Manager のドキュメント</block>
+  <block id="f2c46dc66240138596000a911fc329dc" category="list-text"><block ref="98eb39d84bcd9d653ee2d5119e96969a" category="inline-link-macro-rx"></block> （ 2020 年 1 月 23 日）</block>
+  <block id="ab4385c6ca35951b4efd0c2871095944" category="inline-link-macro">Cloud Compliance のドキュメント</block>
+  <block id="022fd1890be2f8ba7b5bfc8d526e1e35" category="list-text"><block ref="4746811d90ba44b4592b64974c6ec5db" category="inline-link-macro-rx"></block> （ 2020 年 1 月 22 日）</block>
+  <block id="de30ff0f7799bed8eaaffc3aa67c5f68" category="list-text"><block ref="63b2dfcd546a008996cc1a93eb83b957" category="inline-link-macro-rx"></block> （ 2020 年 1 月 22 日）</block>
+  <block id="833e732ee0444267bc1da174548ba78a" category="inline-link-macro">NetApp HCI クラウドサービスおよびソリューション用のドキュメント</block>
+  <block id="273139a524e7ad006693d5672eb1fc67" category="list-text"><block ref="db7f04ef74afc79fc47f0b23f0640d8f" category="inline-link-macro-rx"></block> （ 2019 年 11 月 22 日）</block>
+  <block id="abec09ebabb20833adcb20f5e75b9a70" category="list-text"><block ref="22c0178ce857453e48ff3794fa4dfd93" category="inline-link-macro-rx"></block> （ 2019 年 10 月 24 日）</block>
+  <block id="c3d2f664da493cc1d2eed39d199804b3" category="summary">2019 年末直前に、 Cloud Manager のドキュメントに Cloud Compliance サービスのコンテンツを追加しました。</block>
+  <block id="dd817f8b8470692ef67440abe8b9db70" category="paragraph">2019 年末直前に、 Cloud Compliance サービスに関する Cloud Manager のドキュメントにコンテンツを追加しました。</block>
+  <block id="c6527133a9a1d75014c953711e81902d" category="paragraph">Cloud Compliance は、 AWS と Azure での Cloud Volumes ONTAP 向けのデータプライバシーとコンプライアンスのサービスです。人工知能（ AI ）ベースのテクノロジを使用したクラウドコンプライアンスは、データコンテキストを把握し、 Cloud Volumes ONTAP システム全体で機密データを特定するのに役立ちます。</block>
+  <block id="4784fe79d9263a540b730e0503eb61b6" category="paragraph">Cloud Compliance の運用と管理には Cloud Manager を使用します。Cloud Compliance 機能には、 Cloud Manager の * Compliance * タブからアクセスできます。</block>
+  <block id="b3a853d57fdef5749cc6f40650ebaac6" category="inline-link">Cloud Manager のドキュメント</block>
+  <block id="0aefd0af975c621b20d1d95f7e5bc455" category="paragraph">にアクセスします<block ref="66669ae9fe144d67be852fbb8a9637b7" category="inline-link-rx"></block> をクリックして、開始方法を確認してください。</block>
+  <block id="32c1167790191e2571d7b60db822fb75" category="inline-image-macro">Cloud Manager のドキュメントの Cloud Compliance のコンテンツのスクリーンショット</block>
+  <block id="0a86bd8d14317490dc24f9732292c565" category="paragraph"><block ref="26d34e6669f802b514bbe8a76eba996a" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="9dda9c5cdd8115b872f0ef35be3fcdd5" category="summary">ONTAP 9.7 が一般提供されたので、 ONTAP System Manager 用のコンテンツが docs.netapp.com に再設計されました。</block>
+  <block id="25b7b300a479a551c3d57923603926e8" category="paragraph">ONTAP 9.7 以降では、 ONTAP System Manager の設計が全面的に見直され、わかりやすいグラフィカルユーザインターフェイスを使用して ONTAP の管理が簡易化されています。新しいダッシュボードでは、主要なクラスタのステータスとパフォーマンスが 1 つの画面に表示されます。</block>
+  <block id="0158860f13c021906b67d200c7689058" category="paragraph">ONTAP System Manager のドキュメントも全面的にリニューアルされました。ナビゲーションが簡単なコンテンツは、すばやく簡単に使用できます。主要な管理タスクの概要については、組み込みのビデオをご覧ください。</block>
+  <block id="e8726682a54ea85f2123db66fd54ec79" category="inline-link">ONTAP System Manager のドキュメント</block>
+  <block id="7cce11cd1cef1f48e143e578d0a9e9ba" category="paragraph">にアクセスします<block ref="3a5e4656d39a4651c31e49e8beb7805d" category="inline-link-rx"></block> をダウンロードしてご確認ください。</block>
+  <block id="7c21f38d01aad6cad1d0f32633893bed" category="paragraph"><block ref="500e4723e9fa4087959db6af3e0c371a" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="d4c2619be7bff9d7e1cabee8c8ca76a9" category="summary">新しいネットアップサービスのドキュメントを追加しました。Cloud Volumes Service for AWS のドキュメントがから入手できるようになりました<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="5e2bff150b9b10db5641b203d743226f" category="doc">Cloud Volumes Service for AWS のドキュメント</block>
+  <block id="42b7b123029134ca57803f12fa93b504" category="paragraph">新しいネットアップサービスのドキュメントを追加しました。Cloud Volumes Service for AWS のドキュメントがから入手できるようになりました<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="cffa933a10458e8374fbef2e21507c9d" category="paragraph">NetApp Cloud Volumes Service for AWS は、 NFS や SMB 経由で NAS ボリュームにオールフラッシュのパフォーマンスを提供するクラウドネイティブのファイルサービスです。このサービスを使用すると、従来型アプリケーションを含むあらゆるワークロードを AWS クラウドで実行できます。</block>
+  <block id="0f707acb7e2394436734d74b239bd7a4" category="inline-link">Cloud Volumes Service for AWS のドキュメント</block>
+  <block id="0d08fd30c4ea287e35a236c1ce0f50a3" category="paragraph">にアクセスします<block ref="d214a539d749c7864af274ea2d9c8830" category="inline-link-rx"></block> をクリックして、開始方法を確認してください。</block>
+  <block id="bdfcc723b96e5627c5dd7669de58ce64" category="summary">Converged Systems Advisor のドキュメントをから入手できるようになりました<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="cb773a80fe34f37583813b5d6bbf54e7" category="doc">Converged Systems Advisor 用のドキュメント</block>
+  <block id="9cb6bb5e9ff16479c39d0bcf8f913663" category="paragraph">Converged Systems Advisor のドキュメントをから入手できるようになりました<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="7a49965d9cfff28dae6c97f9b420a932" category="paragraph">NetApp Converged Systems Advisor は、 FlexPod コンバージドインフラの導入を検証、監視、最適化し、ビジネスアプリケーションに最適なパフォーマンスと可用性を確保します。</block>
+  <block id="e9b2694df761ec3149dc627f508ad225" category="inline-link">Converged Systems Advisor のドキュメント</block>
+  <block id="c345c0285df3270d26e03091c3ce0902" category="paragraph">にアクセスします<block ref="85d1a394d8d07c1de98158553304dd41" category="inline-link-rx"></block> をクリックして、開始方法を確認してください。</block>
+  <block id="6ef1daab3112a138119ab68a54297214" category="paragraph"><block ref="6ef1daab3112a138119ab68a54297214" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4749b60d80ac603c59d60d492218a4d4" category="summary">ネットアップの新しい Cloud Insights サービスに関するドキュメントが docs.netapp.com で入手できるようになりました。</block>
+  <block id="e8947ead1bdab019f82cf3b6ff399971" category="doc">Cloud Insights のドキュメント</block>
+  <block id="2d4906ecd3e840e50a951925c4d89134" category="paragraph">ネットアップの新しい Cloud Insights サービスに関するドキュメントがに公開されました<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="b6569b5a5429e43ea4e566ae989fd3e6" category="paragraph">NetApp Cloud Insights は、インフラ全体を可視化できるクラウドインフラ監視ツールです。Cloud Insights を使用すると、パブリッククラウドやプライベートデータセンターなど、すべてのリソースの監視、トラブルシューティング、最適化を行うことができます。</block>
+  <block id="5858ee4031acd7b896faa2d3d2c1a299" category="inline-link">Cloud Insights のドキュメント</block>
+  <block id="995ff0c46344da03464527cbcfcbebb1" category="paragraph">にアクセスします<block ref="58c5925e5196942f30b30cb2d55d4ec2" category="inline-link-rx"></block> をクリックして、開始方法を確認してください。</block>
+  <block id="d9ece361cbf81c60c155b885f24690f7" category="summary">Cloud Volumes ONTAP のリリースノートをに追加しました<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="9cde8b250928656ce8678c8ec126aa0e" category="doc">Cloud Volumes ONTAP のドキュメント</block>
+  <block id="de3fb31a8be0599075aba4868ba330b5" category="paragraph">Cloud Volumes ONTAP のリリースノートをに追加しました<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="b2aa7f46133e37b27f37944e347ae13a" category="paragraph">Cloud Volumes ONTAP は、ファイル共有、 NAS および SAN プロトコル（ NFS 、 SMB 、 iSCSI ）を提供するブロックレベルストレージ、ディザスタリカバリ（ DR ）、バックアップとアーカイブなど、さまざまなユースケースでデータ制御とエンタープライズクラスのストレージ機能を組み合わせています。 DevOps 、データベース（ SQL 、 Oracle 、 NoSQL ）、その他のエンタープライズワークロード</block>
+  <block id="1a523ba4ece9125275b92ebb41e3cf23" category="inline-link">Cloud Volumes ONTAP のドキュメント</block>
+  <block id="510cd2b19ca2a93141480c35102e1f8f" category="paragraph">にアクセスします<block ref="7bcb7b21b5400d7217e9db9c2b1b4ef7" category="inline-link-rx"></block> をクリックしてリリースノートを確認してください。Cloud Volumes ONTAP の導入と管理の方法について説明したドキュメントが必要な場合は、を参照してください<block ref="9f7c33b1b6d8fcf4507c738fba5155d5" category="inline-link-rx"></block>。</block>
+  <block id="a8fd82e5e9c6bb55948e04fd6db97539" category="summary">新しいネットアップサービスのドキュメントを追加しました。NetApp SaaS Backup for Salesforce のドキュメントがから入手できるようになりました<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="128764058687673e348baaa3c18f23a4" category="doc">NetApp SaaS Backup for Salesforce のドキュメント</block>
+  <block id="27b3d50bf4a11ca6040fb6e597f7ff41" category="paragraph">新しいネットアップサービスのドキュメントを追加しました。NetApp SaaS Backup for Salesforce のドキュメントがから入手できるようになりました<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="d031155e704c9f3172521b5694dcd795" category="paragraph">NetApp SaaS Backup は、 Salesforce データを Amazon S3 ストレージにバックアップする、セキュアなクラウドネイティブサービスです。SaaS Backup を使用すると、脅威や予想外の削除からデータを保護できます。</block>
+  <block id="62a1bf19d63cf8abd2a45f03805b1a3a" category="inline-link">NetApp SaaS Backup for Salesforce のドキュメント</block>
+  <block id="fbcea8f4dc514cb9ce5836b06a6d4eeb" category="paragraph">にアクセスします<block ref="a4e64802703d44f75fce5d890692ece4" category="inline-link-rx"></block> をクリックして、開始方法を確認してください。</block>
+  <block id="de39e287c52b06825de260bae8849241" category="paragraph"><block ref="de39e287c52b06825de260bae8849241" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="5dbdc6054859d79d7c19444a994441fe" category="summary">ドキュメントの変更をリクエストしたい場合に、ソースコンテンツを直接編集しないでください。 [ ドキュメントの変更をリクエスト ] をクリックしてフィードバックを提供できるようになりました。</block>
+  <block id="951885a0dd056fe4b77aec324c26ddc3" category="doc">ドキュメントの変更を申請してください</block>
+  <block id="e3c0cf211075637a24931ecc16eab2da" category="paragraph">ドキュメントの変更をリクエストする際に、ソースコンテンツを直接編集しない場合は、 [*Request doc changes] をクリックしてフィードバックを提供できるようになりました。</block>
+  <block id="d9466ff730e0feb26a154ecb639a35e3" category="paragraph">この新しいボタンは、各ページの上部に表示されます。</block>
+  <block id="32a073aab0022a640d6931b3112d874d" category="paragraph"><block ref="32a073aab0022a640d6931b3112d874d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0db13ffa9ada0395f16f1863f6d002fc" category="paragraph">[*Request doc changes] をクリックすると、 GitHub アカウントの作成またはサインインを求めるプロンプトが表示されます（無料で、アカウントを簡単に作成できます）。</block>
+  <block id="d805b5bfc4c9ba3aaaea66a81087fc42" category="paragraph">ログインすると、新しい GitHub 問題を作成するためのフォームが表示されます。テキストボックスには、ページのタイトルと URL があらかじめ入力されています。この情報は削除しないでください。問題を見つけたページを特定するのに役立ちます。</block>
+  <block id="23ddca3dd72398443586add55c501d4c" category="paragraph"><block ref="23ddca3dd72398443586add55c501d4c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3c485ad3c399d7e7463d5becec3dd9d8" category="paragraph">テキストボックスに詳細を入力し、 [ 新規問題の送信 ] をクリックして、リクエストの問題を作成します。</block>
+  <block id="5c63259eb2557499deae26eab465ebcc" category="paragraph">フィードバックを確認して、そこからお寄せください。</block>
+  <block id="8ec744b2290e1d3a33b0ff978e8eaf06" category="summary">ページレベルのナビゲーションが、複数の見出しを持つ各ページに追加されました。</block>
+  <block id="027d87552794088159597f2321cfc386" category="doc">ページレベルのナビゲーション</block>
+  <block id="d99210b4612e0b4ade2c333c4c2880b7" category="paragraph">ページレベルのナビゲーションは、複数のセクションを含む各ページに含まれるようになりました。</block>
+  <block id="cfb96590366980b52c3ed170b3ce4222" category="paragraph">この機能拡張により、スクロールしている場所を簡単に確認したり、ページ上の特定のセクションにジャンプしたりできます。</block>
+  <block id="58d64b9c7f50e3e860ba31a993332863" category="paragraph"><block ref="58d64b9c7f50e3e860ba31a993332863" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="705b9db16ffe253f6dbe6223378c2176" category="summary">ハイライト表示を追加することで、最も一般的な言語の構文を簡単に確認できるようになりました。</block>
+  <block id="b1438fa6c9e31db5034f6307a11fe0fa" category="doc">構文の強調表示</block>
+  <block id="2c6fbc3258a5f85566bcf97c08506130" category="paragraph">たとえば、 NetApp Cloud Central からユーザトークンを取得するための構文を次に示します。</block>
+  <block id="ca8bdf3ba678bd46df596707720379c3" category="paragraph">ご覧のように、 [ コピー ] ボタンも追加されています。このボタンを使用すると、構文をクリップボードに簡単にコピーできます。</block>
+  <block id="996711c9b03859e62bd6cab82ba827d1" category="paragraph">JSON 出力を示す別の例を次に示します。</block>
+  <block id="e177a21fa6914d742af2e7f0ae7cfb1c" category="paragraph">この機能強化が役立つことを願っています。</block>
+  <block id="9a843f20677a52ca79af903123147af0" category="sidebar">ようこそ！</block>
+  <block id="05a5cf06982ba7892ed2a6d38fe832d6" category="sidebar">2021 年です</block>
+  <block id="1c7921a67f24b39dedf2b8594ce0a1a9" category="sidebar">デフォルトブランチの名前が main に変更されました</block>
+  <block id="7b7a53e239400a13bd6be6c91c4f6c4e" category="sidebar">2020 年</block>
+  <block id="bf55b1a83193261961e14a3aec8c15af" category="sidebar">NetApp HCI ドキュメントの更新</block>
+  <block id="ea6b2efbdd4255a9f1b3bbc6399b58f4" category="sidebar">2019 年</block>
+  <block id="6ffca96fa0c1e75da498221f958d9bfb" category="sidebar">SaaS Backup for Salesforce のドキュメント</block>
+  <block id="5b3e65e6745f99101c082b7c5f8aa36e" category="sidebar">Active IQ のドキュメント</block>
+  <block id="481c7743539d1dafecedea9c7530b5ab" category="sidebar">新しいページの RSS フィード</block>
+  <block id="571c738a85e0b49c979bfeb5bf13a8c4" category="sidebar">貢献者の GitHub アバター</block>
+  <block id="84ddfb34126fc3a48ee38d7044e87276" category="sidebar">2018 年</block>
+  <block id="071ed14a37855c29609308bb1decd55d" category="sidebar">ドキュメントの変更を要求する新しい方法</block>
+  <block id="9b1c32128378aa74449702a04d7c2acf" category="sidebar">ドキュメント：「 SaaS Backup for Office 365</block>
+  <block id="e148fb94b2111f44240663465c676324" category="sidebar">GitHub に NetApp のドキュメントを導入しました</block>
+</blocks>

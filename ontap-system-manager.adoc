@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: ontap-system-manager.html 
+keywords: announcements, documentation, ontap system manager, system manager 
+summary: ONTAP 9.7 が一般提供されたので、 ONTAP System Manager 用のコンテンツが docs.netapp.com に再設計されました。 
+last_modified: 23-Jan-2020 
+---
+= ONTAP System Manager のドキュメント
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+ONTAP 9.7 が一般提供されたので、 ONTAP System Manager 用のコンテンツが docs.netapp.com に再設計されました。
+
+ONTAP 9.7 以降では、 ONTAP System Manager の設計が全面的に見直され、わかりやすいグラフィカルユーザインターフェイスを使用して ONTAP の管理が簡易化されています。新しいダッシュボードでは、主要なクラスタのステータスとパフォーマンスが 1 つの画面に表示されます。
+
+ONTAP System Manager のドキュメントも全面的にリニューアルされました。ナビゲーションが簡単なコンテンツは、すばやく簡単に使用できます。主要な管理タスクの概要については、組み込みのビデオをご覧ください。
+
+にアクセスします https://docs.netapp.com/us-en/ontap/index.html["ONTAP System Manager のドキュメント"] をダウンロードしてご確認ください。
+
+image:ontap-system-manager.gif["Cloud Manager のドキュメントの Cloud Compliance のコンテンツのスクリーンショット"]。

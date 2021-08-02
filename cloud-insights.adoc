@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: cloud-insights.html 
+keywords: announcements, documentation, cloud insights 
+summary: ネットアップの新しい Cloud Insights サービスに関するドキュメントが docs.netapp.com で入手できるようになりました。 
+last_modified: 17-Jun-2018 
+---
+= Cloud Insights のドキュメント
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+ネットアップの新しい Cloud Insights サービスに関するドキュメントがに公開されました https://docs.netapp.com["docs.netapp.com"^]。
+
+NetApp Cloud Insights は、インフラ全体を可視化できるクラウドインフラ監視ツールです。Cloud Insights を使用すると、パブリッククラウドやプライベートデータセンターなど、すべてのリソースの監視、トラブルシューティング、最適化を行うことができます。
+
+にアクセスします https://docs.netapp.com/us-en/cloudinsights/["Cloud Insights のドキュメント"^] をクリックして、開始方法を確認してください。

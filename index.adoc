@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+---
+= ネットアップドキュメントの発表
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:keywords: cloud sync, documentation, docs
+
+
+[role="lead"]
+2018 年 2 月には、 GitHub ベースのドキュメントをに公開しました https://docs.netapp.com["docs.netapp.com"^]では、コミュニティの貢献を可能にしながら、コンテンツをより迅速に取得することを目標にしています。継続的に新しいコンテンツを追加し、コンテンツエクスペリエンスを改善します。最新の変更点については、このページをご覧ください。
+
+最新のお知らせは次のとおりです。
+
+* link:default-branch-rename.html["デフォルトブランチの名前を「 main 」に変更"] （ 2021 年 3 月 5 日）
+* link:hci-update.html["HCI ドキュメントを更新"] （ 2020 年 5 月 29 日）
+* link:pdfs.html["PDF をダウンロードします"] （ 2020 年 4 月 28 日）
+* link:look-and-feel.html["ユーザエクスペリエンスの向上"] （ 2020 年 3 月 17 日）
+* link:ontap-system-manager.html["ONTAP System Manager のドキュメント"] （ 2020 年 1 月 23 日）
+* link:cloud-compliance.html["Cloud Compliance のドキュメント"] （ 2020 年 1 月 22 日）
+* link:ontap-select.html["ONTAP Select のドキュメント"] （ 2020 年 1 月 22 日）
+* link:hci.html["NetApp HCI クラウドサービスおよびソリューション用のドキュメント"] （ 2019 年 11 月 22 日）
+* link:style-and-syntax.html["スタイルガイドおよび構文リファレンス"] （ 2019 年 10 月 24 日）
+

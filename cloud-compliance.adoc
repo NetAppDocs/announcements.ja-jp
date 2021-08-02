@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: cloud-compliance.html 
+keywords: announcements, documentation, cloud compliance 
+summary: 2019 年末直前に、 Cloud Manager のドキュメントに Cloud Compliance サービスのコンテンツを追加しました。 
+last_modified: 22-Jan-2020 
+---
+= Cloud Compliance のドキュメント
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+2019 年末直前に、 Cloud Compliance サービスに関する Cloud Manager のドキュメントにコンテンツを追加しました。
+
+Cloud Compliance は、 AWS と Azure での Cloud Volumes ONTAP 向けのデータプライバシーとコンプライアンスのサービスです。人工知能（ AI ）ベースのテクノロジを使用したクラウドコンプライアンスは、データコンテキストを把握し、 Cloud Volumes ONTAP システム全体で機密データを特定するのに役立ちます。
+
+Cloud Compliance の運用と管理には Cloud Manager を使用します。Cloud Compliance 機能には、 Cloud Manager の * Compliance * タブからアクセスできます。
+
+にアクセスします https://docs.netapp.com/us-en/occm/concept_cloud_compliance.html["Cloud Manager のドキュメント"] をクリックして、開始方法を確認してください。
+
+image:cloud-compliance.gif["Cloud Manager のドキュメントの Cloud Compliance のコンテンツのスクリーンショット"]。

@@ -1,0 +1,19 @@
+---
+sidebar: sidebar 
+permalink: default-branch-rename.html 
+keywords: announcements, branches, github, main, master 
+summary: GitHub のすべてのネットアップテクニカルドキュメントリポジトリについて、デフォルトのブランチをマスターからメインに変更しました。この変更は、当社のテクニカルドキュメントで非包括的な言語を削除するための継続的な取り組みの一環です。 
+last_modified: 05-Mar-2021 
+---
+= デフォルトブランチの名前を「 main 」に変更
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+ネットアップのすべてのテクニカルドキュメントリポジトリについて、デフォルトのブランチをマスターからメインに変更しました https://github.com/NetAppDocs/["GitHub"^]。この変更は、当社のテクニカルドキュメントで非包括的な言語を削除するための継続的な取り組みの一環です。
+
+image:default-branch-rename.png[""]

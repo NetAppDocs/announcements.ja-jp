@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: office365.html 
+keywords: announcements, documentation, office 365, backup, saas backup for office 365 
+summary: '新しいネットアップサービスのドキュメントを追加しました。NetApp SaaS Backup for Office 365 のドキュメントがに公開されました https://docs.netapp.com[]。' 
+last_modified: 18-May-2018 
+---
+= NetApp SaaS Backup for Office 365 のドキュメント
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+新しいネットアップサービスのドキュメントを追加しました。NetApp SaaS Backup for Office 365 のドキュメントがに公開されました https://docs.netapp.com["docs.netapp.com"^]。
+
+NetApp SaaS Backup は、 Microsoft Office 365 データを Amazon S3 ストレージ、 Microsoft Azure Blob ストレージ、 StorageGRID Webscale オブジェクトストレージにバックアップする、 Web ベースのセキュアなソフトウェアサービス（ SaaS ）です。
+
+にアクセスします https://docs.netapp.com/us-en/saasbackupO365/["NetApp SaaS Backup for Office 365 のドキュメント"^] をクリックして、開始方法を確認してください。

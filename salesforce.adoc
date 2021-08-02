@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: salesforce.html 
+keywords: announcements, documentation, salesforce, saas backup for salesforce 
+summary: '新しいネットアップサービスのドキュメントを追加しました。NetApp SaaS Backup for Salesforce のドキュメントがから入手できるようになりました https://docs.netapp.com[]。' 
+last_modified: 04-Jun-2019 
+---
+= NetApp SaaS Backup for Salesforce のドキュメント
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+新しいネットアップサービスのドキュメントを追加しました。NetApp SaaS Backup for Salesforce のドキュメントがから入手できるようになりました https://docs.netapp.com["docs.netapp.com"^]。
+
+NetApp SaaS Backup は、 Salesforce データを Amazon S3 ストレージにバックアップする、セキュアなクラウドネイティブサービスです。SaaS Backup を使用すると、脅威や予想外の削除からデータを保護できます。
+
+にアクセスします https://docs.netapp.com/us-en/salesforce/["NetApp SaaS Backup for Salesforce のドキュメント"^] をクリックして、開始方法を確認してください。
+
+image:salesforce.gif[""]

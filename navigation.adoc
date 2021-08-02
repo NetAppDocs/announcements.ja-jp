@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: navigation.html 
+keywords: announcements, navigation, on this page 
+summary: ページレベルのナビゲーションが、複数の見出しを持つ各ページに追加されました。 
+last_modified: 26-Nov-2018 
+---
+= ページレベルのナビゲーション
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+ページレベルのナビゲーションは、複数のセクションを含む各ページに含まれるようになりました。
+
+この機能拡張により、スクロールしている場所を簡単に確認したり、ページ上の特定のセクションにジャンプしたりできます。
+
+image:navigation.gif[""]

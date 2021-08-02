@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: look-and-feel.html 
+keywords: announcements, documentation, user experience, layout, style, breadcrumbs, contribute 
+summary: docs.netapp.com で GitHub ベースのドキュメントのユーザーエクスペリエンスが強化されました。これらの変更により、ネットアップのオンラインコンテンツ全体で一貫したエクスペリエンスを実現できます。 
+last_modified: 17-Mar-2020 
+---
+= ユーザエクスペリエンスの向上
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+GitHub ベースのドキュメントのユーザエクスペリエンスが強化されました https://docs.netapp.com["docs.netapp.com"]。これらの変更により、ネットアップのオンラインコンテンツ全体で一貫したエクスペリエンスを実現できます。
+
+
+
+== レイアウトとスタイル
+
+ドキュメントのレイアウトとスタイルは、 netapp.com にあるものとよく似ています。これには、フォントと色、左右のナビゲーションのレイアウト、ヘッダーとフッターが含まれます。
+
+image:layout.gif[""]
+
+
+
+== ブレッドクラム
+
+ネットアップのドキュメント間を簡単に移動できる階層リンクを追加しました。たとえば、「 * Documentation * 」をクリックすると、 docs.netapp.com に戻ることができます。
+
+image:breadcrumbs.gif[""]
+
+
+
+== 投稿へのリンク
+
+コンテンツへのリンクは、ページレベルのナビゲーションよりも上位に統合されています。これらのリンクは、コンテンツをスクロールすると常に表示されます。そのため、ページのどこかに問題がある場合は、ボタンをクリックして直接変更を送信したり、フィードバックを送信したりすることができます。
+
+image:contribute.gif[""]

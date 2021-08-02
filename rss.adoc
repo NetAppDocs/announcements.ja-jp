@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: rss.html 
+keywords: announcements, rss feeds 
+summary: RSS ボタンをドキュメントの「新機能」ページごとに追加したので、お気に入りの RSS フィードリーダーでコンテンツの更新を受け取ることができます。フィードを通じて、ネットアップの製品やサービスで導入された新機能や拡張機能を常に最新の状態に保つことができます。 
+last_modified: 21-Mar-2019 
+---
+= 新しいページの RSS フィード
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+RSS ボタンをドキュメントの「新機能」ページごとに追加したので、お気に入りの RSS フィードリーダーでコンテンツの更新を受け取ることができます。フィードを通じて、ネットアップの製品やサービスで導入された新機能や拡張機能を常に最新の状態に保つことができます。
+
+関心のある製品またはサービスの「新機能」ページにアクセスします。の例を次に示します https://docs.netapp.com/us-en/cloud-tiering/reference_new.html["Cloud Tiering Service の略"^]：
+
+image:rss.gif[""]
+
+お使いの RSS フィードリーダーに応じて、ページ URL をコピーするか、 * RSS Subscribe * をクリックしてフィード URL をコピーします。リーダー内の URL を検索して、次の手順を開始します。ページが更新されるたびに、フィードに更新情報が反映されます。

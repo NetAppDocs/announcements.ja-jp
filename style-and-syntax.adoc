@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: style-and-syntax.html 
+keywords: announcements, style guide, syntax, asciidoc syntax, voice 
+summary: ネットアップの寄稿者向けガイドの GitHub でホストされているネットアップドキュメントのスタイルと構文を解説するように更新されました。 
+last_modified: 24-Oct-2019 
+---
+= スタイルガイドおよび構文リファレンス
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+を更新しました http://docs.netapp.com/contribute/us-en/index.html["寄稿者向けガイド"^] GitHub に格納されているネットアップドキュメントの形式と構文をカバーするため。
+
+image:style.gif[""]
+
+いくつかの理由から、コンテンツの一部を GitHub に格納し始めました。重要な理由の 1 つは、コミュニティによる貢献を可能にすることです。ネットアップのドキュメントはパートナー様からのフィードバックにより改善されています。ネットアップのお客様、パートナー様、およびネットアップの従業員からのフィードバックです。
+
+フィードバックを提供する 1 つの方法は、 GitHub に保存されているソースコンテンツを編集することです。
+
+image:edit.gif[""]
+
+コンテンツの更新を送信できるように、次の情報をに追加しました http://docs.netapp.com/contribute/us-en/index.html["寄稿者向けガイド"^]：
+
+ネットアップのドキュメントのスタイルガイド:: この軽量ガイドに従って、ネットアップのドキュメントのスタイル（会話型と共感型）を説明します。
+AsciiDoc リファレンス:: Markdown に似た軽量マークアップ言語である AsciiDoc 構文を学習するには、次の参照先を参照してください。
+
+
+これらのリソースはネットアップのマニュアルにご参加いただき、誠に恐縮ですが、今後の参考にさせていただきます。ソースコンテンツを直接編集しない場合でも、 [*Request doc changes] をクリックしてフィードバックを送信できます。フィードバックを確認して、そこからお寄せください。
+
+ご協力になりました。

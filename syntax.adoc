@@ -1,0 +1,55 @@
+---
+sidebar: sidebar 
+permalink: syntax.html 
+keywords: announcements, syntax highlighting 
+summary: ハイライト表示を追加することで、最も一般的な言語の構文を簡単に確認できるようになりました。 
+last_modified: 03-Dec-2018 
+---
+= 構文の強調表示
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+ハイライト表示を追加することで、最も一般的な言語の構文を簡単に確認できるようになりました。
+
+たとえば、 NetApp Cloud Central からユーザトークンを取得するための構文を次に示します。
+
+[source, http]
+----
+POST https://netapp-cloud-account.auth0.com/oauth/token
+Header: Content-Type: application/json
+Body:
+{
+              "username": "<user_email>",
+              "scope": "profile",
+              "audience": "https://api.cloud.netapp.com",
+              "client_id": "UaVhOIXMWQs5i1WdDxauXe5Mqkb34NJQ",
+              "grant_type": "password",
+              "password": "<user_password>"
+}
+----
+ご覧のように、 [ コピー ] ボタンも追加されています。このボタンを使用すると、構文をクリップボードに簡単にコピーできます。
+
+JSON 出力を示す別の例を次に示します。
+
+[source, json]
+----
+[
+    {
+        "header": {
+            "requestId": "init",
+            "clientId": "init",
+            "agentId": "init"
+        },
+        "payload": {
+            "init": {}
+        },
+        "id": "5801"
+    }
+]
+----
+この機能強化が役立つことを願っています。
