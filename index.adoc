@@ -16,6 +16,7 @@ permalink: index.html
 
 最新のお知らせは次のとおりです。
 
+* link:astra_control_center.html["Astra Control Center のドキュメント"] （ 2021 年 8 月 5 日）
 * link:default-branch-rename.html["デフォルトブランチの名前を「 main 」に変更"] （ 2021 年 3 月 5 日）
 * link:hci-update.html["HCI ドキュメントを更新"] （ 2020 年 5 月 29 日）
 * link:pdfs.html["PDF をダウンロードします"] （ 2020 年 4 月 28 日）

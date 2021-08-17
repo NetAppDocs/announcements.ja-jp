@@ -215,4 +215,25 @@
   <block id="071ed14a37855c29609308bb1decd55d" category="sidebar">ドキュメントの変更を要求する新しい方法</block>
   <block id="9b1c32128378aa74449702a04d7c2acf" category="sidebar">ドキュメント：「 SaaS Backup for Office 365</block>
   <block id="e148fb94b2111f44240663465c676324" category="sidebar">GitHub に NetApp のドキュメントを導入しました</block>
+  <block id="f850d546548119c76f210ab460b080c6" category="summary">この度、ネットアップは Astra Control Center の製品ドキュメントをリリースいたしましたので、お知らせいたします。</block>
+  <block id="7f91881a4e5ca9171020102c29c19f58" category="doc">Astra Control Center のドキュメント</block>
+  <block id="f38fccfd815a280859dfd15d161865c3" category="paragraph">このドキュメントでは、 Astra Control Service 、 Astra Control Automation 、 Astra Trident を含む Astra 製品ファミリーのコンテンツサポートを拡張しています。Astra Control Center は、 Kubernetes 向けのオンプレミスアプリケーション対応のデータ管理機能を提供し、 Kubernetes を新旧のオンプレミス ONTAP システムに接続します。</block>
+  <block id="7339a613d4c674913deb90b3b3362fed" category="inline-link">Astra Control Center 入門</block>
+  <block id="a87da1b8e8afc29470ac85cf788e125c" category="inline-link">Astra Control Center のクイックスタート</block>
+  <block id="c3c02050d805dbc9ceac219fbb898972" category="paragraph">Astra Control Center のドキュメントサイトには、 Astra Control Center の導入を迅速に開始するためのトピックが用意されています<block ref="a95d2afae8745420ff43aacb977c87ea" category="inline-link-rx"></block> および<block ref="85d3fc4f1d9c9c8b3625a5fe4a456b0d" category="inline-link-rx"></block>また、 Astra Control Center を使用して Kubernetes クラスタ、アプリケーション、ストレージバックエンドなどを管理する方法についても説明しています。</block>
+  <block id="025b7e6e5bda835f17fe8cb4f83b500d" category="paragraph">Astra 製品ファミリーのドキュメントは、次のサイトから入手できます。</block>
+  <block id="3a4b2c66d4bdac6ce0e3340c71a39eda" category="inline-link">Astra Control Center のドキュメント</block>
+  <block id="ea643bf7aaf130341a17f697a7009368" category="list-text"><block ref="ea643bf7aaf130341a17f697a7009368" category="inline-link-rx"></block></block>
+  <block id="ef22ff17624b3faeed227ce5c717eb5f" category="inline-link">Astra Control Service のマニュアル</block>
+  <block id="6762180adf48075df77efbf264e982ec" category="list-text"><block ref="6762180adf48075df77efbf264e982ec" category="inline-link-rx"></block></block>
+  <block id="ae62facd357433ca5e68bd73bbc985e8" category="inline-link">Astra Control Automation のドキュメント</block>
+  <block id="6c0842d7964e2eb41e0d803e2ccc4cc2" category="list-text"><block ref="6c0842d7964e2eb41e0d803e2ccc4cc2" category="inline-link-rx"></block></block>
+  <block id="14d9b10c6196045941347a9e85704b50" category="inline-link">Astra Trident のドキュメント</block>
+  <block id="27ad5f18f21813695f06091d7d929c12" category="list-text"><block ref="27ad5f18f21813695f06091d7d929c12" category="inline-link-rx"></block></block>
+  <block id="5fc5283f6ec17de5dc3a8219d59951d5" category="paragraph">ネットアップでは、内容に関するフィードバックを高く評価しており、製品ドキュメントの全ページに掲載されている「 Request doc changes 」機能の利用を推奨しています。ドキュメントプラットフォームには、 GitHub ユーザー向けの埋め込みコンテンツ寄与機能も用意されています。</block>
+  <block id="46fd8823cd0c333029a4f02468f6a048" category="inline-link">NetApp Astra Control Center のドキュメント</block>
+  <block id="e4d32a80a3a045bb2cb0ccae0bd727ad" category="paragraph">このドキュメントを参照して、投稿してください。編集、変更のリクエスト、フィードバックの送信も可能です。に進みます<block ref="8e3a361e6788a8a4f34c9bb6c9d6b3ec" category="inline-link-rx"></block> 開始します。</block>
+  <block id="39a11e28c8c10ce011a58d0519e841ad" category="inline-image-macro">docs.netapp.com にある Astra Control Center のドキュメントサイトを示すスクリーンショット。</block>
+  <block id="ac29d6fdc8643e090db3f9c90af1db57" category="paragraph"><block ref="ac29d6fdc8643e090db3f9c90af1db57" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e0447163b38775c5fca302b98047f8a2" category="list-text"><block ref="849c9fbef6c9fb4320c7cbf044a6864f" category="inline-link-macro-rx"></block> （ 2021 年 8 月 5 日）</block>
 </blocks>

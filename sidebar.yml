@@ -4,6 +4,8 @@ entries:
   url: "/index.html"
 - title: 2021 年です
   entries:
+  - title: Astra Control Center のドキュメント
+    url: "/astra_control_center.html"
   - title: デフォルトブランチの名前が main に変更されました
     url: "/default-branch-rename.html"
 - title: 2020 年

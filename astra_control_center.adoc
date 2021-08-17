@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: astra_control_center.html 
+keywords: astra, netapp, announcements, documentation, hci, hybrid, cloud, astra control center, astra control 
+summary: この度、ネットアップは Astra Control Center の製品ドキュメントをリリースいたしましたので、お知らせいたします。 
+last_modified: 16-August-2021 
+---
+= Astra Control Center のドキュメント
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+この度、ネットアップは Astra Control Center の製品ドキュメントをリリースいたしましたので、お知らせいたします。
+
+このドキュメントでは、 Astra Control Service 、 Astra Control Automation 、 Astra Trident を含む Astra 製品ファミリーのコンテンツサポートを拡張しています。Astra Control Center は、 Kubernetes 向けのオンプレミスアプリケーション対応のデータ管理機能を提供し、 Kubernetes を新旧のオンプレミス ONTAP システムに接続します。
+
+Astra Control Center のドキュメントサイトには、 Astra Control Center の導入を迅速に開始するためのトピックが用意されています https://docs.netapp.com/us-en/astra-control-center/concepts/intro.html["Astra Control Center 入門"^] およびまた、 Astra Control Center を使用して Kubernetes クラスタ、アプリケーション、ストレージバックエンドなどを管理する方法についても説明しています。
+
+Astra 製品ファミリーのドキュメントは、次のサイトから入手できます。
+
+* https://docs.netapp.com/us-en/astra-control-center/index.html["Astra Control Center のドキュメント"^]
+* https://docs.netapp.com/us-en/astra/index.html["Astra Control Service のマニュアル"^]
+* https://docs.netapp.com/us-en/astra-automation/["Astra Control Automation のドキュメント"^]
+* https://netapp-trident.readthedocs.io/en/latest/index.html["Astra Trident のドキュメント"^]
+
+
+ネットアップでは、内容に関するフィードバックを高く評価しており、製品ドキュメントの全ページに掲載されている「 Request doc changes 」機能の利用を推奨しています。ドキュメントプラットフォームには、 GitHub ユーザー向けの埋め込みコンテンツ寄与機能も用意されています。
+
+このドキュメントを参照して、投稿してください。編集、変更のリクエスト、フィードバックの送信も可能です。に進みます https://docs.netapp.com/us-en/astra-control-center/index.html["NetApp Astra Control Center のドキュメント"^] 開始します。
+
+image:astra_control_center_doc2.gif["docs.netapp.com にある Astra Control Center のドキュメントサイトを示すスクリーンショット。"]
