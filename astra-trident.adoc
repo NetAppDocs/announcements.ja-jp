@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: astra-trident.html 
+keywords: astra, trident, netapp, announcements, documentation 
+summary: ネットアップでは、 Astra Trident の製品ドキュメントをリリースいたしました。 
+last_modified: 16-August-2021 
+---
+= Trident の Astra ドキュメント
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+ネットアップでは、 Astra Trident の製品ドキュメントをから入手できるようになりました https://www.netapp.com/support-and-training/documentation/["docs.netapp.com"]。
+
+Astra Trident は、 Container Storage Interface （ CSI ）に準拠した動的ストレージオーケストレーションツールで、一般的なネットアップストレージプラットフォームすべてのストレージリソースを消費および管理できます。
+
+https://docs.netapp.com/us-en/trident/index.html["Astra Trident のドキュメント"] ネットアップでは、 Astra Trident の導入をすぐに支援する、などのトピックを提供しています およびまた、 Astra Trident のアップグレードに関する情報なども、簡単に参照できる形式で提供されています。
+
+このドキュメントでは、 Astra 製品ファミリのコンテンツサポートを拡張しています https://docs.netapp.com/us-en/astra/index.html["Astra 制御サービス"]、および。
+
+image:astra-trident.png["docs.netapp.com にある Astra Trident のドキュメントサイトを示すスクリーンショット"]
+
+
+
+== 貢献したいですか？
+
+ネットアップでは、内容に関するフィードバックを高く評価しており、製品ドキュメントの全ページに掲載されている「 Request doc changes 」機能の利用を推奨しています。ドキュメントプラットフォームには、 GitHub ユーザー向けの埋め込みコンテンツ寄与機能も用意されています。
+
+このドキュメントを参照して、投稿してください。編集、変更のリクエスト、フィードバックの送信も可能です。に進みます https://docs.netapp.com/us-en/trident/index.html["ネットアップ Astra Trident のドキュメント"^] 開始します。

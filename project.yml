@@ -1,10 +1,12 @@
+---
 sidebar:
-  
   entries:
   - title: ようこそ！
     url: "/index.html"
   - title: 2021 年です
     entries:
+    - title: Trident の Astra ドキュメント
+      url: "/astra-trident.html"
     - title: Astra Control Center のドキュメント
       url: "/astra_control_center.html"
     - title: デフォルトブランチの名前が main に変更されました
