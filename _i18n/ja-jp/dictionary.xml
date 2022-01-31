@@ -83,7 +83,6 @@
   <block id="163d026b849195b6f6272437e6a79209" category="paragraph">にアクセスします<block ref="807e3f80ca0c2c5e2529f8974c05a3ad" category="inline-link-rx"></block> をクリックして、開始方法を確認してください。</block>
   <block id="6c3ecb751bd708b13e900094cf942926" category="paragraph"><block ref="6c3ecb751bd708b13e900094cf942926" category="inline-image-macro-rx" type="image"></block></block>
   <block id="37a8cfd772c8abc4580a796f3269f47c" category="summary">RSS ボタンをドキュメントの「新機能」ページごとに追加したので、お気に入りの RSS フィードリーダーでコンテンツの更新を受け取ることができます。フィードを通じて、ネットアップの製品やサービスで導入された新機能や拡張機能を常に最新の状態に保つことができます。</block>
-  <block id="f9d2bef3f933675408363de6ee6befcc" category="doc">新しいページの RSS フィード</block>
   <block id="1457e49f8dccec856889afc7198d7b7f" category="inline-link">Cloud Tiering Service の略</block>
   <block id="3872ba83279a8e314096c5b922d90428" category="paragraph">関心のある製品またはサービスの「新機能」ページにアクセスします。の例を次に示します<block ref="d4507f8d464d714b843db28c6932e942" category="inline-link-rx"></block>：</block>
   <block id="6748f7beddaefd31416ca3654ffdf13c" category="paragraph"><block ref="6748f7beddaefd31416ca3654ffdf13c" category="inline-image-macro-rx" type="image"></block></block>
@@ -253,4 +252,5 @@
   <block id="752f9ff9f4842abac53d8c0aec2188b0" category="inline-link">ネットアップ Astra Trident のドキュメント</block>
   <block id="5b2ac7349892d38080d27249f9f7275c" category="paragraph">このドキュメントを参照して、投稿してください。編集、変更のリクエスト、フィードバックの送信も可能です。に進みます<block ref="83cd7cbefde0940dfcdd838ab819e938" category="inline-link-rx"></block> 開始します。</block>
   <block id="a6c03c83182e8a5c08fda690a810ec34" category="list-text"><block ref="85b751cc6a57837c56016d0c4fe6be5f" category="inline-link-macro-rx"></block> （ 2021 年 9 月 9 日）</block>
+  <block id="5dc86df28e80ea7547427158e7beedf6" category="doc">新しいページの RSS フィード</block>
 </blocks>
