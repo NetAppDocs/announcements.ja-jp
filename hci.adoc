@@ -7,6 +7,7 @@ last_modified: 20-Dec-2019
 ---
 = NetApp HCI のドキュメント
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

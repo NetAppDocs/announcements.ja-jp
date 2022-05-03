@@ -7,6 +7,7 @@ last_modified: 19-Feb-2019
 ---
 = ドキュメントの変更を申請してください
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

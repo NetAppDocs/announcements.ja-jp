@@ -4,6 +4,7 @@ permalink: index.html
 ---
 = ネットアップドキュメントの発表
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

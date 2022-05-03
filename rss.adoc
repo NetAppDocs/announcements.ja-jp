@@ -7,6 +7,7 @@ last_modified: 21-Mar-2019
 ---
 = 新しいページの RSS フィード
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

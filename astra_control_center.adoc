@@ -7,6 +7,7 @@ last_modified: 16-August-2021
 ---
 = Astra Control Center のドキュメント
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
@@ -18,7 +19,7 @@ last_modified: 16-August-2021
 
 このドキュメントでは、 Astra Control Service 、 Astra Control Automation 、 Astra Trident を含む Astra 製品ファミリーのコンテンツサポートを拡張しています。Astra Control Center は、 Kubernetes 向けのオンプレミスアプリケーション対応のデータ管理機能を提供し、 Kubernetes を新旧のオンプレミス ONTAP システムに接続します。
 
-Astra Control Center のドキュメントサイトには、 Astra Control Center の導入を迅速に開始するためのトピックが用意されています https://docs.netapp.com/us-en/astra-control-center/concepts/intro.html["Astra Control Center 入門"^] およびまた、 Astra Control Center を使用して Kubernetes クラスタ、アプリケーション、ストレージバックエンドなどを管理する方法についても説明しています。
+Astra Control Center のドキュメントサイトには、 Astra Control Center の導入を迅速に開始するためのトピックが用意されています https://docs.netapp.com/us-en/astra-control-center/concepts/intro.html["Astra Control Center 入門"^] および https://docs.netapp.com/us-en/astra-control-center/get-started/quick-start.html["Astra Control Center のクイックスタート"^]また、 Astra Control Center を使用して Kubernetes クラスタ、アプリケーション、ストレージバックエンドなどを管理する方法についても説明しています。
 
 Astra 製品ファミリーのドキュメントは、次のサイトから入手できます。
 

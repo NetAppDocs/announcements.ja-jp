@@ -7,6 +7,7 @@ last_modified: 04-Jun-2018
 ---
 = Cloud Volumes ONTAP のドキュメント
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
@@ -18,4 +19,4 @@ Cloud Volumes ONTAP のリリースノートをに追加しました https://doc
 
 Cloud Volumes ONTAP は、ファイル共有、 NAS および SAN プロトコル（ NFS 、 SMB 、 iSCSI ）を提供するブロックレベルストレージ、ディザスタリカバリ（ DR ）、バックアップとアーカイブなど、さまざまなユースケースでデータ制御とエンタープライズクラスのストレージ機能を組み合わせています。 DevOps 、データベース（ SQL 、 Oracle 、 NoSQL ）、その他のエンタープライズワークロード
 
-にアクセスします https://docs.netapp.com/us-en/cloud-volumes-ontap/["Cloud Volumes ONTAP のドキュメント"^] をクリックしてリリースノートを確認してください。Cloud Volumes ONTAP の導入と管理の方法について説明したドキュメントが必要な場合は、を参照してください。
+にアクセスします https://docs.netapp.com/us-en/cloud-volumes-ontap/["Cloud Volumes ONTAP のドキュメント"^] をクリックしてリリースノートを確認してください。Cloud Volumes ONTAP の導入と管理の方法について説明したドキュメントが必要な場合は、を参照してください https://docs.netapp.com/us-en/occm/["Cloud Manager のドキュメント"^]。

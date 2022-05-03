@@ -7,6 +7,7 @@ last_modified: 16-August-2021
 ---
 = Trident の Astra ドキュメント
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
@@ -18,9 +19,9 @@ last_modified: 16-August-2021
 
 Astra Trident は、 Container Storage Interface （ CSI ）に準拠した動的ストレージオーケストレーションツールで、一般的なネットアップストレージプラットフォームすべてのストレージリソースを消費および管理できます。
 
-https://docs.netapp.com/us-en/trident/index.html["Astra Trident のドキュメント"] ネットアップでは、 Astra Trident の導入をすぐに支援する、などのトピックを提供しています およびまた、 Astra Trident のアップグレードに関する情報なども、簡単に参照できる形式で提供されています。
+https://docs.netapp.com/us-en/trident/index.html["Astra Trident のドキュメント"] ネットアップでは、 Astra Trident の導入をすぐに支援する、などのトピックを提供しています https://docs.netapp.com/us-en/trident/trident-concepts/intro.html["Astra Trident 入門"] および https://docs.netapp.com/us-en/trident/trident-get-started/kubernetes-deploy.html["導入の概要"]また、 Astra Trident のアップグレードに関する情報なども、簡単に参照できる形式で提供されています。
 
-このドキュメントでは、 Astra 製品ファミリのコンテンツサポートを拡張しています https://docs.netapp.com/us-en/astra/index.html["Astra 制御サービス"]、および。
+このドキュメントでは、 Astra 製品ファミリのコンテンツサポートを拡張しています https://docs.netapp.com/us-en/astra/index.html["Astra 制御サービス"]、 https://docs.netapp.com/us-en/astra-automation/["Astra Control 自動化"]および https://docs.netapp.com/us-en/astra-control-center/index.html["Astra Control Center の略"]。
 
 image:astra-trident.png["docs.netapp.com にある Astra Trident のドキュメントサイトを示すスクリーンショット"]
 
