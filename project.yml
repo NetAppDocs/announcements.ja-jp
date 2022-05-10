@@ -14,6 +14,8 @@ sidebar:
     url: "/index.html"
   - title: 2021 年です
     entries:
+    - title: Astra製品ファミリーのドキュメント
+      url: "/astra-family.html"
     - title: Astraデータストア用のドキュメント
       url: "/astra-data-store.html"
     - title: Trident の Astra ドキュメント
