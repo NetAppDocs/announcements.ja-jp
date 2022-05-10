@@ -253,4 +253,20 @@
   <block id="5b2ac7349892d38080d27249f9f7275c" category="paragraph">このドキュメントを参照して、投稿してください。編集、変更のリクエスト、フィードバックの送信も可能です。に進みます<block ref="83cd7cbefde0940dfcdd838ab819e938" category="inline-link-rx"></block> 開始します。</block>
   <block id="a6c03c83182e8a5c08fda690a810ec34" category="list-text"><block ref="85b751cc6a57837c56016d0c4fe6be5f" category="inline-link-macro-rx"></block> （ 2021 年 9 月 9 日）</block>
   <block id="5dc86df28e80ea7547427158e7beedf6" category="doc">新しいページの RSS フィード</block>
+  <block id="53c97bf46bf800b6a33e8ff980b66d42" category="summary">このたびネットアップは、Astraデータストアの製品ドキュメントをリリースいたしましたので、お知らせいたします。</block>
+  <block id="a6cbfa04701bd567fe3bf8ce91ea2b7e" category="doc">Docs for Astraのデータストアプレビュー版</block>
+  <block id="f89b313476e569f998bee434dd0dc86a" category="paragraph">この度、ネットアップはAstraデータストアプレビュー版の製品ドキュメントをリリースいたしましたので、お知らせいたします。</block>
+  <block id="20009171a360ffaac6edddffe5a3fc2d" category="paragraph">Astra Data Store が提供する永続的ストレージサービスとデータ管理サービスは、 Kubernetes ネイティブのコンテナ化アプリケーションに対応しています。</block>
+  <block id="37959e564907b732d47b2d2b7fb246ae" category="inline-link">Astraデータストア入門</block>
+  <block id="f0b65328b01ef9e6301a81ee7e9ed23f" category="inline-link">Astra データストアのクイックスタート</block>
+  <block id="d5065eb03a82c1ae3a1bf0a4ab3d7172" category="paragraph">Astra Data Storeのドキュメントサイトには、Astra Data Storeを始めとする、短時間での導入を支援するトピックが掲載されています<block ref="80de2ad386e9c8f92629f9d9f11704ae" category="inline-link-rx"></block> および<block ref="4415b524e01228e417a30a741d057489" category="inline-link-rx"></block>。</block>
+  <block id="8c12e73d5653755d89cc3e42b0fa4b92" category="list-text"><block ref="8c12e73d5653755d89cc3e42b0fa4b92" category="inline-link-rx"></block></block>
+  <block id="be1c3d3113c4023e29e8dd947523c711" category="inline-link">Astra データストアのドキュメント</block>
+  <block id="c54241e3258a450b02a723d6d751a4f1" category="list-text"><block ref="c54241e3258a450b02a723d6d751a4f1" category="inline-link-rx"></block></block>
+  <block id="4a2ab62188738135163aaaaeab1d6cfe" category="list-text"><block ref="4a2ab62188738135163aaaaeab1d6cfe" category="inline-link-rx"></block></block>
+  <block id="014828bc1739673f4282e9c1e033c817" category="inline-link">ネットアップAstraデータストアのドキュメント</block>
+  <block id="23a174d0fecd8b79bd5e5f2fd9a4b732" category="paragraph">このドキュメントを参照して、投稿してください。編集、変更のリクエスト、フィードバックの送信も可能です。に進みます<block ref="c1fdd849cd3e68be35f6562f41c2974e" category="inline-link-rx"></block> 開始します。</block>
+  <block id="156e6378a5fcd89f3957166fe15f0100" category="inline-image-macro">docs.netapp.comにあるAstraデータストアのドキュメントサイトを示すスクリーンショット</block>
+  <block id="96ded59f7edd6be28a9cc2e4c72e2154" category="paragraph"><block ref="96ded59f7edd6be28a9cc2e4c72e2154" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="df2d39488ab03675c8a9dc9281c24061" category="sidebar">Astraデータストア用のドキュメント</block>
 </blocks>

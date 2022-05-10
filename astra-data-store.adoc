@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: astra-data-store.html 
+keywords: astra, netapp, announcements, documentation, hci, hybrid, cloud, astra data store 
+summary: このたびネットアップは、Astraデータストアの製品ドキュメントをリリースいたしましたので、お知らせいたします。 
+---
+= Docs for Astraのデータストアプレビュー版
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+この度、ネットアップはAstraデータストアプレビュー版の製品ドキュメントをリリースいたしましたので、お知らせいたします。
+
+Astra Data Store が提供する永続的ストレージサービスとデータ管理サービスは、 Kubernetes ネイティブのコンテナ化アプリケーションに対応しています。
+
+Astra Data Storeのドキュメントサイトには、Astra Data Storeを始めとする、短時間での導入を支援するトピックが掲載されています https://docs.netapp.com/us-en/astra-data-store/concepts/intro.html["Astraデータストア入門"^] および https://docs.netapp.com/us-en/astra-data-store/get-started/quick-start.html["Astra データストアのクイックスタート"^]。
+
+Astra 製品ファミリーのドキュメントは、次のサイトから入手できます。
+
+* https://docs.netapp.com/us-en/astra-control-service/index.html["Astra Control Service のマニュアル"^]
+* https://docs.netapp.com/us-en/astra-control-center/index.html["Astra Control Center のドキュメント"^]
+* https://docs.netapp.com/us-en/astra-data-store/index.html["Astra データストアのドキュメント"^]
+* https://docs.netapp.com/us-en/trident/index.html["Astra Trident のドキュメント"^]
+* https://docs.netapp.com/us-en/astra-automation/["Astra Control Automation のドキュメント"^]
+
+
+ネットアップでは、内容に関するフィードバックを高く評価しており、製品ドキュメントの全ページに掲載されている「 Request doc changes 」機能の利用を推奨しています。ドキュメントプラットフォームには、 GitHub ユーザー向けの埋め込みコンテンツ寄与機能も用意されています。
+
+このドキュメントを参照して、投稿してください。編集、変更のリクエスト、フィードバックの送信も可能です。に進みます https://docs.netapp.com/us-en/astra-data-store/index.html["ネットアップAstraデータストアのドキュメント"^] 開始します。
+
+image:astra-data-store-doc.png["docs.netapp.comにあるAstraデータストアのドキュメントサイトを示すスクリーンショット"]
