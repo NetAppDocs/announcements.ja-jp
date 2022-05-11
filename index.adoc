@@ -13,10 +13,12 @@ permalink: index.html
 
 
 [role="lead"]
-2018 年 2 月には、 GitHub ベースのドキュメントをに公開しました https://docs.netapp.com["docs.netapp.com"^]では、コミュニティの貢献を可能にしながら、コンテンツをより迅速に取得することを目標にしています。継続的に新しいコンテンツを追加し、コンテンツエクスペリエンスを改善します。最新の変更点については、このページをご覧ください。
+2018 年 2 月には、 GitHub ベースのドキュメントをに公開しました https://docs.netapp.com["docs.netapp.com"^] コミュニティの貢献を可能にしつつ、コンテンツをより迅速に取得することを目標としています。継続的に新しいコンテンツを追加し、コンテンツエクスペリエンスを改善します。最新の変更点については、このページをご覧ください。
 
 最新のお知らせは次のとおりです。
 
+* link:astra-data-store.html["Astraデータストア用のドキュメント"] （2021年12月12日）
+* link:astra-family.html["Astra製品ファミリーのドキュメント"] （2021年11月11日）
 * link:astra-trident.html["Trident の Astra ドキュメント"] （ 2021 年 9 月 9 日）
 * link:astra_control_center.html["Astra Control Center のドキュメント"] （ 2021 年 8 月 5 日）
 * link:default-branch-rename.html["デフォルトブランチの名前を「 main 」に変更"] （ 2021 年 3 月 5 日）
